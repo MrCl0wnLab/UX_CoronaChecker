@@ -1,0 +1,10 @@
+C:\Users\Cleiton\source\repos\CoronaChecker\CoronaChecker\bin\Debug\CoronaChecker.exe.config
+C:\Users\Cleiton\source\repos\CoronaChecker\CoronaChecker\bin\Debug\CoronaChecker.exe
+C:\Users\Cleiton\source\repos\CoronaChecker\CoronaChecker\bin\Debug\CoronaChecker.pdb
+C:\Users\Cleiton\source\repos\CoronaChecker\CoronaChecker\obj\Debug\CoronaChecker.csprojAssemblyReference.cache
+C:\Users\Cleiton\source\repos\CoronaChecker\CoronaChecker\obj\Debug\CoronaChecker.Properties.Resources.resources
+C:\Users\Cleiton\source\repos\CoronaChecker\CoronaChecker\obj\Debug\CoronaChecker.csproj.GenerateResource.cache
+C:\Users\Cleiton\source\repos\CoronaChecker\CoronaChecker\obj\Debug\CoronaChecker.csproj.CoreCompileInputs.cache
+C:\Users\Cleiton\source\repos\CoronaChecker\CoronaChecker\obj\Debug\CoronaChecker.exe
+C:\Users\Cleiton\source\repos\CoronaChecker\CoronaChecker\obj\Debug\CoronaChecker.pdb
+C:\Users\Cleiton\source\repos\CoronaChecker\CoronaChecker\obj\Debug\CoronaChecker.FormCorona.resources
